@@ -2,7 +2,7 @@
 
 /**
  * free_list - this function is for to frees a list
- * @head: this varibales is 
+ * @head: this varibales is
  * the head of the linked list.
  * Return: no return.
  */
