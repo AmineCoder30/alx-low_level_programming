@@ -3,7 +3,6 @@
 /**
  * bmain - this function is to  executed before main
  * Return: void function no return.
- * 
  */
 
 void __attribute__ ((constructor)) bmain()
