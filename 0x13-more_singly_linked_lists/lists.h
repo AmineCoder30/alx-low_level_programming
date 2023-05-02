@@ -22,11 +22,11 @@ typedef struct listint_s
  * @next: points to the next node
  * Description: singly linked list of pointers
  */
-typedef struct listp_s
+typedef struct list_ps
 {
 	void *p;
-	struct listp_s *next;
-} listp_t;
+	struct list_ps *next;
+} list_pt;
 
 size_t print_listint(const listint_t *h);
 size_t listint_len(const listint_t *h);
